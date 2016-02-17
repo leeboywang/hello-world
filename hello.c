@@ -5,8 +5,6 @@
 #include <string.h>
 #include <string>
 #include <iostream>
-
-
 #include<pthread.h>
 #include<sys/prctl.h>
 using namespace std;
